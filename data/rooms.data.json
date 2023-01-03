@@ -1,0 +1,34 @@
+[
+    {
+       "name":"SPOT ON 37669 Hotel Shanghai Near Regimental Bazaar, New Market, Bhutan",
+       "imageurls":[
+          "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/597f0e48823f8885.jpg",
+          "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/06883e94ec59702e.jpg",
+          "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/91dead74a5dffa61.jpg"
+       ],
+       "rentperday":1500,
+       "type":"Delux",
+       "maxcount":3,
+       "phonenumber":9989649278,
+       "currentbookings":[
+          
+       ],
+       "description":"Hotel Maldives Lodge is a furnished and modest property located in Regimental Market.The property is in close vicinity to multiple tourist spots namely Main Park, Buddha Statue, Snow World, and Birla Science Museum."
+    },
+    {
+       "name":"OYO Flagship 75243 Metro International",
+       "imageurls":[
+          "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/8e80e24a5496eb80.jpg",
+          "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/caef038a4b97b589.jpg",
+          "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/46bffe91d06dcb96.jpg"
+       ],
+       "rentperday":1500,
+       "type":"Delux",
+       "maxcount":3,
+       "phonenumber":9989649278,
+       "currentbookings":[
+          
+       ],
+       "description":"Hotel Maldives Lodge is a furnished and modest property located in Regimental Market.The property is in close vicinity to multiple tourist spots namely Main Park, Buddha Statue, Snow World, and Birla Science Museum."
+    }
+ ]
