@@ -27,14 +27,22 @@ router.post("/register", async (req, res) => {
 });
 
 router.post("/login", async (req, res) => {
+  console.log(req.body)
   const {email, password} = req.body;
+  let userObj = {};
   try {
     const savedUser = await User.findOne(
-      { email: email },
-      { password: password }
+      { password: password , email: email}
     );
+    
     if (savedUser) {
-      res.send(savedUser);
+      userObj = {
+        name: savedUser.name,
+        email: savedUser.email,
+        _id: savedUser._id,
+        isAdmin: savedUser.isAdmin,
+      }
+      res.send(userObj);
     } else {
       return res
         .status(400)
